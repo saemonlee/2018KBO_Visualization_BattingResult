@@ -1,4 +1,4 @@
-## <p align='center'>2018KBO Visualization of Batting Result Data</p>
+### <p align='center'>2018KBO Visualization of Batting Result Data</p>
 # **<p align='center'>2018KBO 타구 결과 데이터 시각화</p>**
 
 <br>
