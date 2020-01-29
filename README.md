@@ -1,4 +1,7 @@
-# **2018KBO_BattingDistribution<br>2018KBO 타구분포**
+## <p align='center'>2018KBO Visualization of Batting Result Data</p>
+# **<p align='center'>2018KBO 타구 결과 데이터 시각화</p>**
+
+<br>
 
 ![main](images/main.png)
 프로젝트 결과를 한 눈에 파악할 수 있도록 만든 대시보드.
